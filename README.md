@@ -1,7 +1,1 @@
----
-layout: page
-title: Project Overview
-permalink: /
-exclude: true
----
-BRUH
+Hello there! My name is Eli Rejto and this is my virtual resume!
